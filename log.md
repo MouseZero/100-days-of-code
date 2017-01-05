@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 2: Jan 4, 2016
+Today's Progress: Started A program that will convert my text checklist and convert them to HTML
+
+Thoughts: It feels good sometimes to program something that doesn't require a lot of new tech
+
+Link to work: [text-todo-reformater](https://github.com/MouseZero/text-todo-reformater)
+
+
 ### Day 1: Jan 3, 2016
 Today's Progress: Added checkbox's for todo items.
 
