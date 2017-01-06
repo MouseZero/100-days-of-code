@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 3: Jan 5, 2016
+Today's Progress: Added working filters to my todo list
+
+Thoughts: There is a handful of stuff that was really ugly code today. I'm tempted to refactor but this really small project was only ment to test out redux and get a feel so I'm not sure its important.
+
+Link to work: [React/Redux Todo App](https://github.com/MouseZero/redux-todo)
+
 ### Day 2: Jan 4, 2016
 Today's Progress: Started A program that will convert my text checklist and convert them to HTML
 
