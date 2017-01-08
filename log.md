@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 5: Jan 7, 2016
+Today's Progress: Refactoring
+
+Thoughts: The best way to describe what I was doing today is play. I spent a lot of time refactoring and changing this just to see how they worked.
+
+Link to work: [React/Redux Todo App](https://github.com/MouseZero/redux-todo)
+
 ### Day 4: Jan 6, 2016
 Today's Progress: Refactoring
 
