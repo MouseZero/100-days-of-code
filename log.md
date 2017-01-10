@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 7: Jan 9, 2017
+Today's Progress: Refactoring
+
+Thoughts: I'm finished with my test todo list app! It feels good to be done. This project was pretty fun. I know in the rules this 100 days is not supposed to count tutorials in light of this I did not count watching time and I didn't follow the tutorial line by line just the gist.
+
+Link to work: [React/Redux Todo App](https://github.com/MouseZero/redux-todo)
+
 ### Day 6: Jan 8, 2017
 Today's Progress: Refactoring
 
