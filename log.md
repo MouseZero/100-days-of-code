@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 8: Jan 10, 2017
+Today's Progress: Debugging tool and access to Redux store for a class.
+
+Thoughts: I didn't make much progress today. I'm enjoying the process and trying to have just as much fun for days with little progress because they are bound to happen.
+
+Link to work: [Voting App](https://github.com/MouseZero/voting-app)
+
 ### Day 7: Jan 9, 2017
 Today's Progress: Refactoring
 
