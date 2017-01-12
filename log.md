@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 9: Jan 11, 2017
+Today's Progress: Worked on token login but no real progress
+
+Thoughts: I feel like I failed today. I was stuck in an environment that was really distracting and started a lot of code that I just ended up deleting there was no commit. I found out my RESTFUL server at home was down so I switched to another project and didn't commit on that.
+
+Link to work: [Voting App](https://github.com/MouseZero/voting-app)
+
 ### Day 8: Jan 10, 2017
 Today's Progress: Debugging tool and access to Redux store for a class.
 
