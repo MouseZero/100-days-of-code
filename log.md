@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 10: Jan 12, 2017
+Today's Progress: Added in some functional functions
+
+Thoughts: I'm trying to take a functional approach to this problem and I think its going to be an interesting slightly uncomfortable situation since I'm used to OOP. I believe I'm going to enjoy this though.
+
+Link to work: [Text Todo Reformater](https://github.com/MouseZero/text-todo-reformater)
+
 ### Day 9: Jan 11, 2017
 Today's Progress: Worked on token login but no real progress
 
