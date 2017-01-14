@@ -1,5 +1,5 @@
 # 100 Days Of Code - Log
-### Day 10: Jan 12, 2017
+### Day 11: Jan 13, 2017
 Today's Progress: Front end is now able to get a token via the backends RESTful service api.
 
 Thoughts: It's cool getting a small glimpse of the applications 2 major parts starting to connect
