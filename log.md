@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 ### Day 10: Jan 12, 2017
+Today's Progress: Front end is now able to get a token via the backends RESTful service api.
+
+Thoughts: It's cool getting a small glimpse of the applications 2 major parts starting to connect
+
+Link to work: [Voting App](https://github.com/MouseZero/voting-app)
+
+### Day 10: Jan 12, 2017
 Today's Progress: Added in some functional functions
 
 Thoughts: I'm trying to take a functional approach to this problem and I think its going to be an interesting slightly uncomfortable situation since I'm used to OOP. I believe I'm going to enjoy this though.
