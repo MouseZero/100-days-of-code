@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 12: Jan 14, 2017
+Today's Progress: Now able to use the front end to create the data for a chart in the RESTful service. GUI is plugged in.
+
+Thoughts: Seems despite reading half a book I always at least get a small snag on CORS but this time around is wasn't bad. I had a lot of fun. I got more done and got to spend more time on programming today.
+
+Link to work: [Voting App](https://github.com/MouseZero/voting-app)
+
 ### Day 11: Jan 13, 2017
 Today's Progress: Front end is now able to get a token via the backends RESTful service api.
 
