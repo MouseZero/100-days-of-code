@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 13: Jan 15, 2017
+Today's Progress: Added some small improvements on how the data presented from the RESTful API. Store is now updated to reflect the service records of charts for a user. User charts are also displayed
+
+Thoughts: I would like to use "fetch" instead of JQuery ajax call. I feel the Redux solidifying itself in my head.
+
+Link to work: [Voting App](https://github.com/MouseZero/voting-app)
+Link to work: [Voting App Backend](https://github.com/MouseZero/voting-app-backend)
+
 ### Day 12: Jan 14, 2017
 Today's Progress: Now able to use the front end to create the data for a chart in the RESTful service. GUI is plugged in.
 
