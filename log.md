@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 14: Jan 16, 2017
+Today's Progress: Changed the create poll interface to add and remove input fields. Also fixed a bunch of warnings.
+
+Thoughts: I have tones of warnings in my code. I think I need to check up with the warnings more often and clean things up.
+
+Link to work: [Voting App](https://github.com/MouseZero/voting-app)
+
 ### Day 13: Jan 15, 2017
 Today's Progress: Added some small improvements on how the data presented from the RESTful API. Store is now updated to reflect the service records of charts for a user. User charts are also displayed
 
