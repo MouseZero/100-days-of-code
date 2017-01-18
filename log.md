@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 15: Jan 17, 2017
+Today's Progress: Started on the page for desplaying polls. Login button changes to a profile button when you are logged in. You can now log out of the app.
+
+Thoughts: I'm starting to get quicker at the typical Redux and React stuff.
+
+Link to work: [Voting App](https://github.com/MouseZero/voting-app)
+
 ### Day 14: Jan 16, 2017
 Today's Progress: Changed the create poll interface to add and remove input fields. Also fixed a bunch of warnings.
 
