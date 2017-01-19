@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 16: Jan 18, 2017
+Today's Progress: Moved some of my code to adapt to the JWT living in the localStorage instead of the Redux Store
+
+Thoughts: I think I broke something and I'm not able to log on. I'm sure testing would have prevented this.
+
+Link to work: [Voting App](https://github.com/MouseZero/voting-app)
+
 ### Day 15: Jan 17, 2017
 Today's Progress: Started on the page for desplaying polls. Login button changes to a profile button when you are logged in. You can now log out of the app.
 
