@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 17: Jan 19, 2017
+Today's Progress: Taking care of many code warnings.
+
+Thoughts: I need to be cleaner about my code while I create it. I have tones of code warnings.
+
+Link to work: [Voting App](https://github.com/MouseZero/voting-app)
+
 ### Day 16: Jan 18, 2017
 Today's Progress: Moved some of my code to adapt to the JWT living in the localStorage instead of the Redux Store
 
