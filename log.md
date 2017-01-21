@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 18: Jan 20, 2017
+Today's Progress: Fixed warnings and fixed the login system that broke
+
+Thoughts: Feeling more comfortable day to day in the code
+
+Link to work: [Voting App](https://github.com/MouseZero/voting-app)
+
 ### Day 17: Jan 19, 2017
 Today's Progress: Taking care of many code warnings.
 
