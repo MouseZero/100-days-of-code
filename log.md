@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 19: Jan 21, 2017
+Today's Progress: Bug fixes, redirecting the user when they log on or off. Allow users who are not logged in to view a poll.
+
+Thoughts: Very productive day today. I'm loving this more and more every single day. It feels as if the completion of my voting app is in sight.
+
+Link to work: [Voting App](https://github.com/MouseZero/voting-app)
+
 ### Day 18: Jan 20, 2017
 Today's Progress: Fixed warnings and fixed the login system that broke
 
