@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 20: Jan 22, 2017
+Today's Progress: Users can now delete charts.
+
+Thoughts: Things went pretty well but I didn't have as much time as I would like to on the project.
+
+Link to work: [Voting App](https://github.com/MouseZero/voting-app)
+
 ### Day 19: Jan 21, 2017
 Today's Progress: Bug fixes, redirecting the user when they log on or off. Allow users who are not logged in to view a poll.
 
