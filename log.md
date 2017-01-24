@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 21: Jan 23, 2017
+Today's Progress: User input is now sanitized for SQL injection.
+
+Thoughts: I skimmed over the doc's when I first put all the SQL code in and didn't even look at the simple ways you could make your query to prevent SQL injection. This is a good argument for making sure you take non rushed time to read docs. So often there are very important things spelled out clearly if you just take the time to read them.
+
+Link to work: [Voting App Backend](https://github.com/MouseZero/voting-app-backend)
+
 ### Day 20: Jan 22, 2017
 Today's Progress: Users can now delete charts.
 
