@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 22: Jan 24, 2017
+Today's Progress: The site can now create new users. There was a bug fix in the backend where failed user creation would brake the database connection.
+
+Thoughts: When fixing the bug I can tell that I didn't spend much time refactoring that code. I'm hoping when I implement test I also start refactoring more.
+
+Link to work: [Voting App](https://github.com/MouseZero/voting-app)
+Link to work: [Voting App Backend](https://github.com/MouseZero/voting-app-backend)
+
 ### Day 21: Jan 23, 2017
 Today's Progress: User input is now sanitized for SQL injection.
 
