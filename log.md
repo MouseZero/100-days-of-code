@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 23: Jan 25, 2017
+Today's Progress: Not much at all a small refactoring and writing a bunch of code that was wrong and didn't get commited
+
+Thoughts: For having such an unproductive day I don't feel so bad. You win some and you loss some and thats how it is.
+
+Link to work: [Voting App](https://github.com/MouseZero/voting-app)
+
 ### Day 22: Jan 24, 2017
 Today's Progress: The site can now create new users. There was a bug fix in the backend where failed user creation would brake the database connection.
 
