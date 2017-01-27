@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 24: Jan 26, 2017
+Today's Progress: Not much still trying to get D3 working in React. Not to much in the way of commits.
+
+Thoughts: Still struggling though trying to get D3 to work with react.
+
+Link to work: [Voting App](https://github.com/MouseZero/voting-app)
+
 ### Day 23: Jan 25, 2017
 Today's Progress: Not much at all a small refactoring and writing a bunch of code that was wrong and didn't get commited
 
