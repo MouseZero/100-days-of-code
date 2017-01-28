@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 25: Jan 27, 2017
+Today's Progress: Got a new project started up with React
+
+Thoughts: It took me a lot longer then I thought to just get a simple project started
+
+Link to work: [messing-with-d3](https://github.com/MouseZero/messing-with-d3.git)
+
 ### Day 24: Jan 26, 2017
 Today's Progress: Not much still trying to get D3 working in React. Not to much in the way of commits.
 
