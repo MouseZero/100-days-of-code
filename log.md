@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 26: Jan 28, 2017
+Today's Progress: got d3 working in my React project but no chart yet.
+
+Thoughts: Cutting things a bit short because I want to read up on Urbit. I have a feeling this will become my next project.
+
+Link to work: [messing-with-d3](https://github.com/MouseZero/messing-with-d3.git)
+
 ### Day 25: Jan 27, 2017
 Today's Progress: Got a new project started up with React
 
