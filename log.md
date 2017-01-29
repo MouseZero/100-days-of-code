@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 27: Jan 29, 2017
+Today's Progress: I got a chart to show up in my react app.
+
+Thoughts: The react-d3-library isn't something I would use for a serious project. It forces you to specify stuff I don't care about such as margin and doesn't seem to let me use a normal react function with props for some reason it seems like I need a class with state in order to do it. I straight up could not follow the docs and had to find an example. I'm not sure if this library saved me time at all. I would suppose if you have not done any d3 in the past through its worth it.
+
+Link to work: [messing-with-d3](https://github.com/MouseZero/messing-with-d3.git)
+
 ### Day 26: Jan 28, 2017
 Today's Progress: got d3 working in my React project but no chart yet.
 
