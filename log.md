@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 28: Jan 30, 2017
+Today's Progress: Drew a planet using CSS. Started a drawing of a planet using canvas.
+
+Thoughts: This was kind of a fun deviation from the norm.
+
+Link to work: [CSS Planet](http://codepen.io/mousezero/pen/XpVwGm)
+Link to work: [Canvas Planet](http://codepen.io/mousezero/pen/pRpXeJ)
+
 ### Day 27: Jan 29, 2017
 Today's Progress: I got a chart to show up in my react app.
 
