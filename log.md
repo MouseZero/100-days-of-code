@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 29: Jan 31, 2017
+Today's Progress: Created a component for displaying Bar Charts
+
+Thoughts: Things went reasonably smoothly for only spending an hour
+
+Link to work: [Voting App](https://github.com/MouseZero/voting-app)
+
 ### Day 28: Jan 30, 2017
 Today's Progress: Drew a planet using CSS. Started a drawing of a planet using canvas.
 
