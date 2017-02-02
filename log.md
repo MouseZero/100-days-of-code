@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 30, Feb 1, 2017
+Today's Progress: Bar charts are now being displayed for the polls. Some code warning fixes
+
+Thoughts: Getting code in even if its just a little feels pretty productive.
+
+Link to work: [Voting App](https://github.com/MouseZero/voting-app)
+
 ### Day 29: Jan 31, 2017
 Today's Progress: Created a component for displaying Bar Charts
 
