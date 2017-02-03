@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 31, Feb 2, 2017
+Today's Progress: Created a small command line "time clock" app in a few hours.
+
+Thoughts: This was fun to complete a small project so fast.
+
+Link to work: [timeClock](https://github.com/MouseZero/timeClock.git)
+
 ### Day 30, Feb 1, 2017
 Today's Progress: Bar charts are now being displayed for the polls. Some code warning fixes
 
