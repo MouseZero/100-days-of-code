@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 32, Feb 3, 2017
+Today's Progress: Time card now records the amount of time each clock item took. I used streams for this because I may have to use it at work in a bit.
+
+Thoughts: I really enjoy sessions like this where there is enough challange but I still know enough about the problem to keep busy and not stop much. Before I started coding I did a good bit of reading in the docs about the streams and I think this helped a lot and there was less trial and error.
+
+Link to work: [timeClock](https://github.com/MouseZero/timeClock.git)
+
 ### Day 31, Feb 2, 2017
 Today's Progress: Created a small command line "time clock" app in a few hours.
 
