@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 33, Feb 4, 2017
+Today's Progress: Added the ability to clock out. When clocking out the program does not record duration. I also did some re-factoring
+
+Thoughts: still going strong
+
+Link to work: [timeClock](https://github.com/MouseZero/timeClock.git)
+
 ### Day 32, Feb 3, 2017
 Today's Progress: Time card now records the amount of time each clock item took. I used streams for this because I may have to use it at work in a bit.
 
