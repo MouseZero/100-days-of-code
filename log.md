@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 34, Feb 5, 2017
+Today's Progress: removed react-d3-library and replacing it with real d3. I created a component with a extremely primitive bar chart with no labels
+
+Thoughts: I had more fun this time. Creating the bar chart on my own feels less like cheating.
+
+Link to work: [Voting App](https://github.com/MouseZero/voting-app)
+
 ### Day 33, Feb 4, 2017
 Today's Progress: Added the ability to clock out. When clocking out the program does not record duration. I also did some re-factoring
 
