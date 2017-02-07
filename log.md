@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 35, Feb 6, 2017
+Today's Progress: Chart now scales to the size of the screen.
+
+Thoughts: This go around with d3 has been great. The first time I did D3 I disliked it but there was many functional concepts that I was learning and I think that contributed to my frustration back then.
+
+Link to work: [Voting App](https://github.com/MouseZero/voting-app)
+
 ### Day 34, Feb 5, 2017
 Today's Progress: removed react-d3-library and replacing it with real d3. I created a component with a extremely primitive bar chart with no labels
 
