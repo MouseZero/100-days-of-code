@@ -1,4 +1,18 @@
 # 100 Days Of Code - Log
+### Day 37, Feb 8, 2017
+Today's Progress: Moved the chart to make room for text
+
+Thoughts: Not feeling 100% but I still squeezed in time for my coding.
+
+Link to work: [Voting App](https://github.com/MouseZero/voting-app)
+
+### Day 36, Feb 7, 2017
+Today's Progress: Scaling to the size of the screen happens even if you change the size of your window. Put in a bit of color.
+
+Thoughts: I love that this is a habit and even if I put in the minimal amount of time and read for the rest of the day I feel like a accomplished something.
+
+Link to work: [Voting App](https://github.com/MouseZero/voting-app)
+
 ### Day 35, Feb 6, 2017
 Today's Progress: Chart now scales to the size of the screen.
 
