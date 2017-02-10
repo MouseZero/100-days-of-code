@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 38, Feb 9, 2017
+Today's Progress: Added number of votes as well as labels on the chart.
+
+Thoughts: I hit a rough spot today trying to figure out how the scalers worked. I think a lot of what was tripping me up is the fact that as you increase the Y value you do down instead of up.
+
+Link to work: [Voting App](https://github.com/MouseZero/voting-app)
+
 ### Day 37, Feb 8, 2017
 Today's Progress: Moved the chart to make room for text
 
