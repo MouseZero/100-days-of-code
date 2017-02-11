@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 39, Feb 10, 2017
+Today's Progress: Improvements on chart display for the front end. Some refactoring in the back-end to get ready for voting ability.
+
+Thoughts: I get to switch gears to backend which I love.
+
+Link to work: [Voting App](https://github.com/MouseZero/voting-app)
+Link to work: [Voting App Backend](https://github.com/MouseZero/voting-app-backend)
+
 ### Day 38, Feb 9, 2017
 Today's Progress: Added number of votes as well as labels on the chart.
 
