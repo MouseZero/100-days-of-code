@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 40, Feb 11, 2017
+Today's Progress: I now have a vote endpoint in the back end
+
+Thoughts: I think I like the backend a bit more then front end
+
+Link to work: [Voting App Backend](https://github.com/MouseZero/voting-app-backend)
+
 ### Day 39, Feb 10, 2017
 Today's Progress: Improvements on chart display for the front end. Some refactoring in the back-end to get ready for voting ability.
 
