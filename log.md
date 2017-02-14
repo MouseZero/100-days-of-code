@@ -1,4 +1,18 @@
 # 100 Days Of Code - Log
+### Day 42, Feb 13, 2017
+Today's Progress: Created a new api project that accepts a post request
+
+Thoughts: I was struggling to get code down on my other project so just started this one to keep my fingers moving.
+
+Link to work: [time-clock-service](https://github.com/MouseZero/time-clock-service)
+
+### Day 41, Feb 12, 2017
+Today's Progress: Added the ability to vote from the front end of the code.
+
+Thoughts: I've got some bugs and really I should have been using redux thunk for async calls that effect the store.
+
+Link to work: [Voting App](https://github.com/MouseZero/voting-app)
+
 ### Day 40, Feb 11, 2017
 Today's Progress: I now have a vote endpoint in the back end
 
