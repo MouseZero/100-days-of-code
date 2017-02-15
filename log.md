@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 44, Feb 15, 2017
+Today's Progress: Fixed bugs where old chart does not show up before the new one loads. Now when you vote on something it forwards the user to a thanks page.
+
+Thoughts: I feel my brain is on top of things more in the morning then at night.
+
+Link to work: [Voting App](https://github.com/MouseZero/voting-app)
+
 ### Day 43, Feb 14, 2017
 Today's Progress: Fixed a bug where an old chart would display instead of the current one.
 
