@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 43, Feb 14, 2017
+Today's Progress: Fixed a bug where an old chart would display instead of the current one.
+
+Thoughts: Alter components with a jquery type code after its already rendered feels really dirty and looks messing. I'm not a big fan but I think that's just how d3 js works.
+
+Link to work: [Voting App](https://github.com/MouseZero/voting-app)
+
 ### Day 42, Feb 13, 2017
 Today's Progress: Created a new api project that accepts a post request
 
