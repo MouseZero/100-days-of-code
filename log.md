@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 45, Feb 16, 2017
+Today's Progress: Added an API endpoint for getting the latest charts. Started to implement the means of accessing that API in the front end.
+
+Thoughts: I'm getting more and more comfortable with the whole services and front end workflow.
+
+Link to work: [Voting App](https://github.com/MouseZero/voting-app)
+Link to work: [Voting App Backend](https://github.com/MouseZero/voting-app-backend)
+
 ### Day 44, Feb 15, 2017
 Today's Progress: Fixed bugs where old chart does not show up before the new one loads. Now when you vote on something it forwards the user to a thanks page.
 
