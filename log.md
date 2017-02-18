@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 46, Feb 17, 2017
+Today's Progress: The home page now displays the latest polls. You can click on the chart to vote. I fixed some warnings.
+
+Thoughts: Really getting close to finishing this app. I need to make it look nicer clean up some code and reread the assignment to make sure everything is done.
+
+Link to work: [Voting App](https://github.com/MouseZero/voting-app)
+
 ### Day 45, Feb 16, 2017
 Today's Progress: Added an API endpoint for getting the latest charts. Started to implement the means of accessing that API in the front end.
 
