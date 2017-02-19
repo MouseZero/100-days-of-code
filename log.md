@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 47, Feb 18, 2017
+Today's Progress: Added the ability to add additional questions to poll after its created.
+
+Thoughts: I'm excited for the next project when I get to try to do things better then this one.
+
+Link to work: [Voting App](https://github.com/MouseZero/voting-app)
+Link to work: [Voting App Backend](https://github.com/MouseZero/voting-app-backend)
+
 ### Day 46, Feb 17, 2017
 Today's Progress: The home page now displays the latest polls. You can click on the chart to vote. I fixed some warnings.
 
