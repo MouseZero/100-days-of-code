@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 48, Feb 18, 2017
+Today's Progress: Improving on aesthetics mostly. I also was able to fix some code warnings.
+
+Thoughts: I was really into it today. Flow state for a large chunk of the day.
+
+Link to work: [Voting App](https://github.com/MouseZero/voting-app)
+
 ### Day 47, Feb 18, 2017
 Today's Progress: Added the ability to add additional questions to poll after its created.
 
