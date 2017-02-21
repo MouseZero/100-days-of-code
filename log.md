@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 50, Feb 21, 2017
+Today's Progress: Mostly just adding popup messages for user interactions
+
+Thoughts: Half way done and I have not missed a day! The toastr library is awesome.
+
+Link to work: [Voting App](https://github.com/MouseZero/voting-app)
+
 ### Day 49, Feb 20, 2017
 Today's Progress: Pair programmed with a friend. Helped him with connecting a front end with a backend.
 
