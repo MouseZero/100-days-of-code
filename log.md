@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
-### Day 48, Feb 18, 2017
+### Day 49, Feb 20, 2017
+Today's Progress: Pair programmed with a friend. Helped him with connecting a front end with a backend.
+
+Thoughts: Its fun spreading the knowledge and hanging out with friend. I have a a good time programming.
+
+Link to work: [Front End](https://github.com/synapticsynergy/react-scratch.git)
+LInk to work: [Back End](https://github.com/synapticsynergy/react-server.git)
+
+### Day 48, Feb 19, 2017
 Today's Progress: Improving on aesthetics mostly. I also was able to fix some code warnings.
 
 Thoughts: I was really into it today. Flow state for a large chunk of the day.
