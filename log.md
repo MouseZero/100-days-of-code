@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 51, Feb 22, 2017
+Today's Progress: Took care of an error as well as changed the color scheme of the app.
+
+Thoughts: Very very close to calling this project done.
+
+Link to work: [Voting App](https://github.com/MouseZero/voting-app)
+
 ### Day 50, Feb 21, 2017
 Today's Progress: Mostly just adding popup messages for user interactions
 
