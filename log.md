@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 52, Feb 23, 2017
+Today's Progress: Now connects with the postgres DB.
+
+Thoughts: I'm still struggling with imports on the font end via npm.
+
+Link to work: [Time Punch Service](https://github.com/MouseZero/time-clock-service)
+
 ### Day 51, Feb 22, 2017
 Today's Progress: Took care of an error as well as changed the color scheme of the app.
 
