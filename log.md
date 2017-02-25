@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 53, Feb 24, 2017
+Today's Progress: Code now creates database tables
+
+Thoughts: I would like to fill in more knowledge about database subjects.
+
+Link to work: [Time Punch Service](https://github.com/MouseZero/time-clock-service)
+
 ### Day 52, Feb 23, 2017
 Today's Progress: Now connects with the postgres DB.
 
