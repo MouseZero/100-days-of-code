@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 54, Feb 25, 2017
+Today's Progress: Toke care of some import issues on the voting app. Fixed some issues on time-clock-service with the table setup code hanging up and potential ordering issues with table creation.
+
+Thoughts: It was harder to make sure I made the time today but I got it.
+
+Link to work: [Time Punch Service](https://github.com/MouseZero/time-clock-service)
+Link to work: [Voting App](https://github.com/MouseZero/voting-app)
+
 ### Day 53, Feb 24, 2017
 Today's Progress: Code now creates database tables
 
