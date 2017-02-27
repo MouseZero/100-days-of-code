@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 55, Feb 26, 2017
+Today's Progress: Fixed a foreign key constraint in the table making code in "Time Punch Service". Fixed issue on both projects where I uploaded the dev config to github (I'm going to delete the old dev password). Changed config file's to JSON format.
+
+Thoughts: It was dumb of me to upload the database config even if the passwords getting changed. I need to be careful.
+
+Link to work: [Time Punch Service](https://github.com/MouseZero/time-clock-service)
+Link to work: [Back End](https://github.com/synapticsynergy/react-server.git)
+
 ### Day 54, Feb 25, 2017
 Today's Progress: Toke care of some import issues on the voting app. Fixed some issues on time-clock-service with the table setup code hanging up and potential ordering issues with table creation.
 
