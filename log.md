@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 56, Feb 27, 2017
+Today's Progress: On the "Time Punch Service" I move the routes to there own page and made the first postgres query. I started a "Nightlife" app for "Free Code Camp"
+
+Thoughts: I really enjoy these projects
+
+Link to work: [Time Punch Service](https://github.com/MouseZero/time-clock-service)
+Link to work: [Nightlife](https://github.com/MouseZero/nightlife.git)
+
 ### Day 55, Feb 26, 2017
 Today's Progress: Fixed a foreign key constraint in the table making code in "Time Punch Service". Fixed issue on both projects where I uploaded the dev config to github (I'm going to delete the old dev password). Changed config file's to JSON format.
 
