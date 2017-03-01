@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 57, Feb 28, 2017
+Today's Progress: Program now creates JWT tokens
+
+Thoughts: My brain wasn't all there today
+
+Link to work: [Time Punch Service](https://github.com/MouseZero/time-clock-service)
+
 ### Day 56, Feb 27, 2017
 Today's Progress: On the "Time Punch Service" I move the routes to there own page and made the first postgres query. I started a "Nightlife" app for "Free Code Camp"
 
