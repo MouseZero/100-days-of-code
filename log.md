@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 58, Mar 4, 2017
+Today's Progress: Put the voting app in production today
+
+Thoughts: It feels good to be done with this project.
+
+Link to work: [Front End](https://github.com/synapticsynergy/react-scratch.git)
+Link to work: [Back End](https://github.com/synapticsynergy/react-server.git)
+
 ### Day 57, Feb 28, 2017
 Today's Progress: Program now creates JWT tokens
 
