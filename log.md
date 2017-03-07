@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 59, Mar 6, 2017
+Today's Progress: Messed around with testing with a random program.
+
+Thoughts: Just trying to get a feel for how testing works
+
+Link to work: [supertest-example](https://github.com/MouseZero/supertest-example)
+
 ### Day 58, Mar 4, 2017
 Today's Progress: Put the voting app in production today
 
