@@ -1,10 +1,16 @@
 # 100 Days Of Code - Log
+### Day 61, Mar 8, 2017
+Today's Progress: Messing around with testing. Trying to connect the database with the endpoints
+
+Thoughts: Testing is making things slower but I'm still enjoying my time
+
+Link to work: [nightlife planner](https://github.com/MouseZero/nightlife-backend)
 ### Day 60, Mar 7, 2017
 Today's Progress: now can create users and check if users exist. Can now create the user table. Set up ESLint.
 
 Thoughts: Things are starting to go more smoothly. I'm getting a small glimpse into what its going to be like when I become fast at all this.
 
-Link to work: [nightlife planner](https://github.com/MouseZero/supertest-example)
+Link to work: [nightlife planner](https://github.com/MouseZero/nightlife-backend)
 
 ### Day 59, Mar 6, 2017
 Today's Progress: Messed around with testing with a random program.
