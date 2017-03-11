@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 63, Mar 10, 2017
+Today's Progress: Working on providing JWT but for now the endpoint provides info on the requested user.
+
+Thoughts: Things are going a lot slower while testing but I'm taking extra time to change my code in different ways to increase my understanding.
+
+Link to work: [nightlife planner](https://github.com/MouseZero/nightlife-backend)
+
 ### Day 62, Mar 9, 2017
 Today's Progress: Mostly testing today. Messed around with async/await and figuring out how to make my test in fewer lines of code.
 
