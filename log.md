@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 64, Mar 11, 2017
+Today's Progress: You can now create and delete users via api endpoint. Some refactoring and tests.
+
+Thoughts: I really feel that I need to read a book on testing.
+
+Link to work: [nightlife planner](https://github.com/MouseZero/nightlife-backend)
+
 ### Day 63, Mar 10, 2017
 Today's Progress: Working on providing JWT but for now the endpoint provides info on the requested user.
 
